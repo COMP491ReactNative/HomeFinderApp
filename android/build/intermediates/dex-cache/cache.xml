@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/grandhis/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/3.0.0/5871fb60dc68d67da54a663c3fd636a10a532948/jsr305-3.0.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="5871fb60dc68d67da54a663c3fd636a10a532948">
+        <dex dex="/Users/grandhis/Desktop/senior_seminar/HomeFinder/android/app/build/intermediates/pre-dexed/debug/jsr305-3.0.0-63f73bddfb2f63878ee8b0182cee80393c67d04b.jar" />
+    </item>
+    <item
+        jar="/Users/grandhis/Desktop/senior_seminar/HomeFinder/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline/0.11.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="3341b66c54367e777a0647e2db96c045329bfeab">
+        <dex dex="/Users/grandhis/Desktop/senior_seminar/HomeFinder/android/app/build/intermediates/pre-dexed/debug/classes-9f8d8bbba268c417c58a2b8a9f489730df7a4c90.jar" />
+    </item>
+    <item
+        jar="/Users/grandhis/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-tasks/1.4.0/d85884acf6810a3bbbecb587f239005cbc846dc4/bolts-tasks-1.4.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="/Users/grandhis/Desktop/senior_seminar/HomeFinder/android/app/build/intermediates/pre-dexed/debug/bolts-tasks-1.4.0-4302667bb57e87629fd9cc71fa8480a6f441127f.jar" />
+    </item>
+    <item
+        jar="/Users/grandhis/Desktop/senior_seminar/HomeFinder/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-okhttp3/0.11.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="2b8a01ad9da5d26d0067894c22e87597bca2c500">
+        <dex dex="/Users/grandhis/Desktop/senior_seminar/HomeFinder/android/app/build/intermediates/pre-dexed/debug/classes-ee3bfc408f45ea97618ac94431692b4ecf259bbd.jar" />
+    </item>
+    <item
+        jar="/Users/grandhis/.gradle/caches/modules-2/files-2.1/javax.inject/javax.inject/1/6975da39a7040257bd51d21a231b76c915872d38/javax.inject-1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="/Users/grandhis/Desktop/senior_seminar/HomeFinder/android/app/build/intermediates/pre-dexed/debug/javax.inject-1-dccc931637fa3a23c98d5b047fd8741a5cefcbec.jar" />
+    </item>
+    <item
+        jar="/Users/grandhis/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.4.1/c7c4f9e35c2fd5900da24f9872e3971801f08ce0/okhttp-3.4.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="c7c4f9e35c2fd5900da24f9872e3971801f08ce0">
+        <dex dex="/Users/grandhis/Desktop/senior_seminar/HomeFinder/android/app/build/intermediates/pre-dexed/debug/okhttp-3.4.1-633cca9a8fd429ba97efcf6a19a4eb2f8739d2ee.jar" />
+    </item>
+    <item
+        jar="/Users/grandhis/Desktop/senior_seminar/HomeFinder/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fbcore/0.11.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="98786c1770b531b9194fb6448b2a2692c64074b6">
+        <dex dex="/Users/grandhis/Desktop/senior_seminar/HomeFinder/android/app/build/intermediates/pre-dexed/debug/classes-db4ce791a032e099e702105179713bce238bb1c1.jar" />
+    </item>
+    <item
+        jar="/Users/grandhis/Desktop/senior_seminar/HomeFinder/android/app/build/intermediates/exploded-aar/com.facebook.soloader/soloader/0.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="8f615bca00639150c9eb6175d4b5471193f70794">
+        <dex dex="/Users/grandhis/Desktop/senior_seminar/HomeFinder/android/app/build/intermediates/pre-dexed/debug/classes-764e3acdfd2b53201c1c59d959c57da6d796fe94.jar" />
+    </item>
+    <item
+        jar="/Users/grandhis/.gradle/caches/modules-2/files-2.1/com.nineoldandroids/library/2.4.0/e9b63380f3a242dbdbf103a2355ad7e43bad17cb/library-2.4.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb">
+        <dex dex="/Users/grandhis/Desktop/senior_seminar/HomeFinder/android/app/build/intermediates/pre-dexed/debug/library-2.4.0-563043f69174645a9e5f3a8c99bd5bb0941a5792.jar" />
+    </item>
+    <item
+        jar="/Users/grandhis/Desktop/senior_seminar/HomeFinder/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.2.1/jars/libs/internal_impl-23.2.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="607a3d0b8013b4ccbfeb0b7cb293351994e021fb">
+        <dex dex="/Users/grandhis/Desktop/senior_seminar/HomeFinder/android/app/build/intermediates/pre-dexed/debug/internal_impl-23.2.1-a227f93fc9aa0002bf4c61a32524bfb78d6ca254.jar" />
+    </item>
+    <item
+        jar="/Users/grandhis/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp-ws/3.4.1/8ace66ef7002d98f633377c9e67daeeb196d8c3b/okhttp-ws-3.4.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="8ace66ef7002d98f633377c9e67daeeb196d8c3b">
+        <dex dex="/Users/grandhis/Desktop/senior_seminar/HomeFinder/android/app/build/intermediates/pre-dexed/debug/okhttp-ws-3.4.1-769aa4376569e5f2189f428a5c14c0c41c89b13d.jar" />
+    </item>
+    <item
+        jar="/Users/grandhis/Desktop/senior_seminar/HomeFinder/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="3be474b1b21b31cf2fa93fe6bd641ae108d96452">
+        <dex dex="/Users/grandhis/Desktop/senior_seminar/HomeFinder/android/app/build/intermediates/pre-dexed/debug/classes-b27f9b94d188108428d0241370673e68b635e418.jar" />
+    </item>
+    <item
+        jar="/Users/grandhis/Desktop/senior_seminar/HomeFinder/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="/Users/grandhis/Desktop/senior_seminar/HomeFinder/android/app/build/intermediates/pre-dexed/debug/classes-a3dd94d4be5836f3792316209e8fa32968f23d2d.jar" />
+    </item>
+    <item
+        jar="/Users/grandhis/Desktop/senior_seminar/HomeFinder/android/app/build/intermediates/exploded-aar/com.facebook.fresco/drawee/0.11.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="1137942adeb03984c1311b662363dd38fc238fd3">
+        <dex dex="/Users/grandhis/Desktop/senior_seminar/HomeFinder/android/app/build/intermediates/pre-dexed/debug/classes-862573d5e3b037d2151e4973aed7ff8228960ba4.jar" />
+    </item>
+    <item
+        jar="/Users/grandhis/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.2.1/support-annotations-23.2.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="ccb693bc0774fcb637246f7360de25b4af7df318">
+        <dex dex="/Users/grandhis/Desktop/senior_seminar/HomeFinder/android/app/build/intermediates/pre-dexed/debug/support-annotations-23.2.1-ed0aefc9728d8290c748917f8f87a1b9c1d71731.jar" />
+    </item>
+    <item
+        jar="/Users/grandhis/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-core/2.2.3/1a0113da2cab5f4c216b4e5e7c1dbfaa67087e14/jackson-core-2.2.3.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="1a0113da2cab5f4c216b4e5e7c1dbfaa67087e14">
+        <dex dex="/Users/grandhis/Desktop/senior_seminar/HomeFinder/android/app/build/intermediates/pre-dexed/debug/jackson-core-2.2.3-efa5c9f07e30918ff3b9e8a22382fafa0f83399d.jar" />
+    </item>
+    <item
+        jar="/Users/grandhis/Desktop/senior_seminar/HomeFinder/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.34.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="24959c1d0b0991e7d0d42ab7bd7e7d68b2c3e679">
+        <dex dex="/Users/grandhis/Desktop/senior_seminar/HomeFinder/android/app/build/intermediates/pre-dexed/debug/classes-ca42cbbef646dbeda00365caac1ecf1a08caa184.jar" />
+    </item>
+    <item
+        jar="/Users/grandhis/Desktop/senior_seminar/HomeFinder/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-base/0.11.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="ca63c521b5745ae9a09629d7ca67ff6bc2a967fe">
+        <dex dex="/Users/grandhis/Desktop/senior_seminar/HomeFinder/android/app/build/intermediates/pre-dexed/debug/classes-0a4dfc833e65f4ef837fead24276a471158e74ba.jar" />
+    </item>
+    <item
+        jar="/Users/grandhis/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.9.0/f824591a0016efbaeddb8300bee54832a1398cfa/okio-1.9.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="f824591a0016efbaeddb8300bee54832a1398cfa">
+        <dex dex="/Users/grandhis/Desktop/senior_seminar/HomeFinder/android/app/build/intermediates/pre-dexed/debug/okio-1.9.0-0d352037c245e7fa9e4891a0b42ad4d0bc384d25.jar" />
+    </item>
+    <item
+        jar="/Users/grandhis/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp-urlconnection/3.4.1/63994437f62bc861bc20c605d12962f7246116d1/okhttp-urlconnection-3.4.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="63994437f62bc861bc20c605d12962f7246116d1">
+        <dex dex="/Users/grandhis/Desktop/senior_seminar/HomeFinder/android/app/build/intermediates/pre-dexed/debug/okhttp-urlconnection-3.4.1-0731575294f675d2e589c49b418adba27bce0511.jar" />
+    </item>
+    <item
+        jar="/Users/grandhis/Desktop/senior_seminar/HomeFinder/android/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="4356e230a981d1bbf047d848b91bc0d9b7c5bacc">
+        <dex dex="/Users/grandhis/Desktop/senior_seminar/HomeFinder/android/app/build/intermediates/pre-dexed/debug/classes-fe5e048b33a4da6a7ad6ab93bd80739d7ea2d445.jar" />
+    </item>
+    <item
+        jar="/Users/grandhis/Desktop/senior_seminar/HomeFinder/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.34.1/jars/libs/infer-annotations-1.5.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="085d4b604a91b790ed60ccf219b0c30c9db7d9ea">
+        <dex dex="/Users/grandhis/Desktop/senior_seminar/HomeFinder/android/app/build/intermediates/pre-dexed/debug/infer-annotations-1.5-4e863b7b9aec9ebb46caa93d6cb501a69735ca25.jar" />
+    </item>
+    <item
+        jar="/Users/grandhis/Desktop/senior_seminar/HomeFinder/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fresco/0.11.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d31aadf33187c37a7cd63dc1b769f8c6e33f78c3">
+        <dex dex="/Users/grandhis/Desktop/senior_seminar/HomeFinder/android/app/build/intermediates/pre-dexed/debug/classes-ad0e99d72003129ac6647f058a89b3b7b586ab58.jar" />
+    </item>
+
+</items>
